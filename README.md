@@ -1,1 +1,1 @@
-# MyJava
+# Java files
